@@ -1,3 +1,0 @@
-# CEREBROS (SYSTEM)
-
-Resources for CEREBROS
